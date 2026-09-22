@@ -1,0 +1,21 @@
+name: Bug
+description: Something is broken or wrong
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected, what you got. Include a command or a link to the data row if relevant.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version or commit
+      placeholder: v1.2.0, or a SHA
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: For data corrections, the source that shows the current value is wrong.
