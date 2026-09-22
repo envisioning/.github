@@ -15,7 +15,6 @@ A research institute studying emerging technology and the futures it makes possi
 | | |
 |---|---|
 | [skills](https://github.com/envisioning/skills) | Foresight methods as skills for Claude Code and other agents. Scope, sense, structure, project, stress, make. |
-| [agent-hivemind](https://github.com/envisioning/agent-hivemind) | Collective intelligence for OpenClaw agents: discover and share proven skill combinations. |
 
 ### Design
 
